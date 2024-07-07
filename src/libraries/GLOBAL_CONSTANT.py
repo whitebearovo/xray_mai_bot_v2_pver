@@ -266,7 +266,7 @@ FORTUNE_LIST = [
 
 # QQ号权限
 # 机修()
-BOT_STAFF = [381268035]
+BOT_STAFF = [381268035,2296560449]
 # BOT管理员(更新完成表)
 BOT_DATA_ADMINISTRATOR = [381268035]
 # BOT数据管理工作人员(开放黑白名单、直接添加别名)
@@ -279,13 +279,12 @@ SAVE_IMAGE = [1019756397]
 
 
 # Mongo服务器配置
-MONGO_USERNAME = ''
-MONGO_PASSWORD = ''
-MONGO_HOST = '127.0.0.1'
+MONGO_USERNAME = 'xray_bot'
+MONGO_PASSWORD = 'xray_bot'
+MONGO_HOST = 'fanyu.site'
 MONGO_PORT = 21017
 # 身份校验数据库
-MONGO_DATABASE = 'admin'
-
+MONGO_DATABASE = 'xray-mai-bot'
 # 连接数据库
 MONGO_DB = 'xray-mai-bot'
 
