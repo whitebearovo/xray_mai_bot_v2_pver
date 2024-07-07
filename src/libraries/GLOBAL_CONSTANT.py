@@ -289,4 +289,4 @@ MONGO_DATABASE = 'xray-mai-bot'
 MONGO_DB = 'xray-mai-bot'
 
 # 高德APIKEY(附近mai)
-API_KEY = ""
+API_KEY = "3e148de697aaadfb5c6fd320c0b97338"
