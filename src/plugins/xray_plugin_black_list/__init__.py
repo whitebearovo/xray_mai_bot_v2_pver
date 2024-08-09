@@ -62,7 +62,7 @@ async def __(bot: Bot, api: str, data: Dict[str, Any]):
 def blacklist_processor(event: MessageEvent):
     is_block = 0
     if isinstance(event,GroupMessageEvent):
-        if event.group_id in [725215674]:
+        if event.group_id in [725215674,701317457,833932071,835907753]:
             is_block = 0
         else:
             is_block = 1
