@@ -279,14 +279,14 @@ SAVE_IMAGE = [1019756397]
 
 
 # Mongo服务器配置
-MONGO_USERNAME = 'xray_bot'
-MONGO_PASSWORD = 'xray_bot'
-MONGO_HOST = 'fanyu.site'
+MONGO_USERNAME = ''
+MONGO_PASSWORD = ''
+MONGO_HOST = ''
 MONGO_PORT = 21017
 # 身份校验数据库
-MONGO_DATABASE = 'xray-mai-bot'
+MONGO_DATABASE = ''
 # 连接数据库
-MONGO_DB = 'xray-mai-bot'
+MONGO_DB = ''
 
 # 高德APIKEY(附近mai)
-API_KEY = "3e148de697aaadfb5c6fd320c0b97338"
+API_KEY = ""
